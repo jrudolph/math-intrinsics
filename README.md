@@ -1,0 +1,2 @@
+ - Download hsdis-<arch>.so for your platform to this directory
+ - `LD_LIBRARY_PATH=. sbt run`
